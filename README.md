@@ -1,2 +1,2 @@
 # sql-challenge
-Data Class Assignment 6
+Data Class Assignment 7
